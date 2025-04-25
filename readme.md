@@ -10,4 +10,4 @@ Premiers exercices de Javascript
 
 ## 🖼️ Aperçu visuel (optionnel)
 
-[Live Demo](https://ocrzia.github.io/JS2--Conditions/)
+[Live Demo](https://ocrzia.github.io/JS3--Pair-impair/)
